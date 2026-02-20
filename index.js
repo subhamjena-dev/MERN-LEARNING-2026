@@ -7,3 +7,6 @@ else if(marks <80 && marks>=45){
 }else{
     console.log("need to work hard")
 }
+ for(let i=0;i<=25;i++){
+    console.log("result=" , i);
+ }
